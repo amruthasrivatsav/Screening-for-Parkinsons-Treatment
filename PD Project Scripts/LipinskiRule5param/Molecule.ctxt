@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Molecule
+comment1.params=name\ hbd\ hba\ mw\ logp\ pka
+comment1.target=Molecule(java.lang.String,\ int,\ int,\ double,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getHBD()
+comment4.params=
+comment4.target=int\ getHBA()
+comment5.params=
+comment5.target=double\ getMW()
+comment6.params=
+comment6.target=double\ getlogP()
+comment7.params=
+comment7.target=double\ getpKa()
+numComments=8
