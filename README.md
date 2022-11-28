@@ -1,6 +1,9 @@
 # Screening-for-Parkinsons-Treatment
 Code used to run an computational high throughput molecular docking to identify 2 potential Parkinson's Disease Treatments
-This project consisted of using molecular docking to screen a library of a mass set of FDA approved drugs to identify ones 
+
+This folder contains the code I used in a research project I designed and conducted independently in 2021.
+
+This work used molecular docking to screen a library of a mass set of FDA approved drugs to identify ones 
 that could potentially slow the progression of Parkinson's disease, specifically by binding with certain regions of a main protein involved. Generally, 
 molecular docking studies are done with 1 target and 1 drug. In order to screen a mass set, I wrote the scripts in this folder.
 More information about the project itself can be found on the research paper: 
